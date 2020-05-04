@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSharingAndSynchronizati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSharingAndSynchronization1", "DataSharingAndSynchronization1\DataSharingAndSynchronization1.csproj", "{DA26ECA5-5C40-480B-BDD4-7A4FE80521DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCoordinationCreatingContinuations", "TaskCoordination\TaskCoordinationCreatingContinuations.csproj", "{4DCF3F16-EDA1-4307-86DB-4E17187249FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCoordinationChildTasks", "TaskCoordinationChildTasks\TaskCoordinationChildTasks.csproj", "{202F53EE-FA09-4B9A-AD2A-F6931A3217E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{DA26ECA5-5C40-480B-BDD4-7A4FE80521DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA26ECA5-5C40-480B-BDD4-7A4FE80521DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA26ECA5-5C40-480B-BDD4-7A4FE80521DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DCF3F16-EDA1-4307-86DB-4E17187249FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCF3F16-EDA1-4307-86DB-4E17187249FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCF3F16-EDA1-4307-86DB-4E17187249FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCF3F16-EDA1-4307-86DB-4E17187249FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202F53EE-FA09-4B9A-AD2A-F6931A3217E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202F53EE-FA09-4B9A-AD2A-F6931A3217E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202F53EE-FA09-4B9A-AD2A-F6931A3217E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202F53EE-FA09-4B9A-AD2A-F6931A3217E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
